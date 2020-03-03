@@ -18,7 +18,7 @@ JavaScript
 jQuery
 ## Support and contact details
 If there are any questions, ideas, suggestions to improve,  then feel freee to contact me
-@mihingoe@gmail.com
+mihingoe@gmail.com
 ### License
 MIT License
 Copyright (c) 2020 ibbzfunction Dog(name, colors, age) {

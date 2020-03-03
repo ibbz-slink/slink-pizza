@@ -157,5 +157,5 @@ function clearForm() {
     document.getElementById("cheese_form").reset(); 
     document.getElementById("crust_form").reset(); 
     document.getElementById("sause_form").reset(); 
-    document.getElementById("veggies_form").reset(); 
+    document.getElementById("veggies_form").reset()
 };

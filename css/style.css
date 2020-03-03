@@ -1,0 +1,85 @@
+body {
+    
+        background: url('../images/bernard-hermant-OjwQ9WywGsw-unsplash\ \(1\).jpg');
+        text-decoration-color: rgb(238, 203, 4);
+        text-decoration: rgb(238, 177, 10);
+        background-size:cover;
+        text-align: center;
+        box-sizing: content-box;
+        text-decoration: underline;
+        color: #f5f10f;
+        background-repeat:no-repeat;  
+        
+    }
+
+
+.menu-cards, .invoice-card {
+    /* padding-top: 100px; */
+    padding-left: 100px;
+    padding-right: 100px;
+    /* text-align: center; */
+}
+
+.card-block {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.card {
+    margin: 15px;
+    /* border-radius: 5%; */
+    text-decoration: double;
+    text-transform: capitalize;
+    transform: rotate3d(100%);
+}
+
+.card-text {
+    font-style: italic; 
+}
+
+.card-header {
+    font-weight: 500;
+    font-size: 2em;
+}
+
+ul {
+   list-style: none; 
+}
+
+/* .order-buttons */
+
+button {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-width: 25%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.jumbotron {
+    background-image: url(../images/Dark\ Wood\ Wall\ Texture\ Photography\ Backdrops\ Newborn\ Baby\ Wood\ Floor\ Photo\ Backgrounds\ for\ Children\ Studio\ Props.jpeg);
+}
+
+.jumbo_head {
+    text-shadow: 2px 2px 8px #c7a616;
+}
+.container{
+    background-image: url(../images/Rustic\ Wood\ wall\ Art\,\ abstract\ wood\ art\ sculpture\,\ reclaimed\ wood.jpeg);
+}
+#your_order{
+    background-image: url(../images/Rustic\ Wood\ wall\ Art\,\ abstract\ wood\ art\ sculpture\,\ reclaimed\ wood.jpeg);
+    
+}
+.card-header{
+    background-image: url(../images/Rustic\ Wood\ wall\ Art\,\ abstract\ wood\ art\ sculpture\,\ reclaimed\ wood.jpeg);
+
+}
+.card-block{
+    background-image: url(../images/Dark\ Wood\ Wall\ Texture\ Photography\ Backdrops\ Newborn\ Baby\ Wood\ Floor\ Photo\ Backgrounds\ for\ Children\ Studio\ Props.jpeg);
+
+}

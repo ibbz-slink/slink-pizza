@@ -1,7 +1,7 @@
 ##SlIkY pizza
 #### {PIZZA WEBSITE}
 #### By IBBZ SLINK
-## Descriptio n
+## Description
 **design**
 pizza website
 **development**
